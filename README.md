@@ -27,7 +27,7 @@
 </ul>
 <p>admin.php --></p>
 <ul>
-  <li>password protection (default adnin:admin)</li>
+  <li>prompts the user to log in  (default admin/admin)</li>
   <li>option to provide title, author, category, content and banner image.</li>
   <li>option to format text using headline, paragraph, bold, italic, dotted list, numbered list, links, incline, decline, left align, right align, center align, justify align</li>
   <li>option to insert images to the article</li>
