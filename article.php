@@ -58,6 +58,7 @@ if (file_exists($nameFile)) {
         <meta http-equiv = "Content-Type" content = "text / html; charset = UTF-8" />
         <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta property="og:image" content="https://example.com/<?= htmlspecialchars($coverImageUrl ?? ('cikkek/' . $category . '/cover.jpg')) ?>" />
         <style>
             body { margin: 0; font-family: 'Roboto', sans-serif; padding: 0; background: #f9f9f9; }
             .article h1 { margin-bottom: 10px; }
