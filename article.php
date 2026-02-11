@@ -117,7 +117,7 @@ if (file_exists($nameFile)) {
             }
 
             @media(max-width: 700px) {
-                .article {padding: 35px;}
+                .article {padding: 25px;}
             }
             
         </style>
