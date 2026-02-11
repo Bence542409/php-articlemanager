@@ -29,6 +29,7 @@
 <ul>
   <li>prompts the user to log in  (default admin/admin)</li>
   <li>option to provide title, author, category, content and banner image.</li>
+  <li>recognizes existing text formatting if copied from Microsoft Word</li>
   <li>option to format text using headline, paragraph, bold, italic, dotted list, numbered list, links, incline, decline, left align, right align, center align, justify align</li>
   <li>option to insert images to the article</li>
   <li>option to upload banner image to the article</li>
