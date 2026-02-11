@@ -24,6 +24,8 @@
   <li>reads the json file to the article</li>
   <li>shows the title, written date, author banner image (if available) and contents of the article</li>
   <li>click the title to copy a shareable URL</li>
+  <li>social media websites use the articles provided banner image (if article banner image is available)</li>
+  <li>social media websites use the category's cover image (if article banner image is not available)</li>
 </ul>
 <p>admin.php --></p>
 <ul>
