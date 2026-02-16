@@ -15,8 +15,14 @@
 </ul>
 <p>category.php --></p>
 <ul>
-  <li>lists the articles available in the category</li>
+  <li>lists the articles available in the given category</li>
   <li>shows the title, written date and banner image (if available) of the article</li>
+  <li>select the article to go to article.php?title=[slug]&category=[category]</li>
+</ul>
+<p>all-articles.php --></p>
+<ul>
+  <li>lists the articles available in every category</li>
+  <li>shows the title, written date, author, category and banner image (if available) of the article</li>
   <li>select the article to go to article.php?title=[slug]&category=[category]</li>
 </ul>
 <p>article.php --></p>
