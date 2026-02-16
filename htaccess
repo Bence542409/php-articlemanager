@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^article/([^/]+)/([^/]+)/?$ /article.php?title=$2&category=$1 [L,QSA]
